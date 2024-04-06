@@ -18,10 +18,6 @@ Frontend of Tic Tac Toe game implemented using vanilla JavaScript and Tailwind.
 
 2. Open the `index.html` file in your web browser.
 
-## Contributing
-
-Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
-
 ## MIT License
 
 The MIT License is a permissive open-source license that allows you to use, modify, and distribute the code in both commercial and non-commercial projects. It also provides you with the freedom to sublicense the code under different terms if needed.
