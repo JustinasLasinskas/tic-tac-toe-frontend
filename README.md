@@ -1,6 +1,6 @@
-# Tic Tac Toe
+# Tic-Tac-Toe Frontend
 
-Frontend of Tic Tac Toe game implemented using vanilla JavaScript and Tailwind.
+Frontend of Tic-Tac-Toe game implemented using vanilla JavaScript and Tailwind.
 
 ## Features
 
